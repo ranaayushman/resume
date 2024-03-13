@@ -56,6 +56,8 @@ body {
 }
 
 .bottom-container {
+    margin-top:10px;
+    margin-bottom:10px;
     background-color: #66bfbf;
     padding: 50px 0 20px;
 }
