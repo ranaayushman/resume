@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.title-text {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    font-style: normal;
+    color: #66bfbf;
+    margin: 50px auto 0 auto;
+}
+
+.hi {
+    color: #66bfbf;
+}
+
+.skills {
+    color: #66bfbf;
+}
+
+.design {
+    color: #66bfbf;
+}
+
+.field {
+    color: #66bfbf;
+}
+
+.top-container {
+    position: relative;
+    background-color: aliceblue;
+    padding-top: 100px;
+}
+
+.midd-container {
+    position: relative;
+    background-color: antiquewhite;
+    margin: 100px auto;
+}
+
+.profile-pic {
+    border-radius: 50%;
+}
+
+.btn {
+    background-color: #11cdd4;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border-radius: 8px;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+
+.footer-link {
+    padding: 50px 50px 50px 50px;
+    margin: 50px 50px 50px 50px;
+}
+
+.profile-pic {
+    height: 200px;
+    width: 200px;
+}
+
+.profile {
+    padding-bottom: 30px;
+}
+
+.skills {
+    margin-top: 50px;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1 1fr);
+    margin: 100px auto 0 20px;
+    row-gap: 2rem;
+}
+
+.typing {
+    height: 200px;
+    width: 200px;
+    border-radius: 25%;
+}
+
+.interest-img {
+    height: 200px;
+    width: 200px;
+    border-radius: 25%;
+}
