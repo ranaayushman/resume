@@ -93,6 +93,15 @@ body {
     width: 200px;
     border-radius: 25%;
 }
+@media (max-width:1080px){
+    .profile-pic{
+        height:30rem;
+        width:30rem;
+    }
+    .footer-link{
+        font-size:2rem;
+    }
+}
 
 .interest-img {
     height: 200px;
